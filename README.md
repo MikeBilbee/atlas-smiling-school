@@ -18,7 +18,7 @@ In this project, we will implement 3 web pages with Bootstrap. The objective is 
 
 | Task | File | Description |
 | ----- | ----- | ----- |
-| 0. Read and be familiar with Figma | [README.md]() | For this task, please write an amazing README.md |
+| 0. Read and be familiar with Figma | [README.md](https://github.com/MikeBilbee/atlas-smiling-school/blob/main/README.md) | For this task, please write an amazing README.md |
 | 1. Header first | [0-homepage.html](https://github.com/MikeBilbee/atlas-smiling-school/blob/main/0-homepage.html) [styles.css](https://github.com/MikeBilbee/atlas-smiling-school/blob/main/styles.css) | Create the header/hero piece |
 | 2. Carousel of quotes | [1-homepage.html](https://github.com/MikeBilbee/atlas-smiling-school/blob/main/1-homepage.html) [styles.css](https://github.com/MikeBilbee/atlas-smiling-school/blob/main/styles.css) | Create the section “Carousel of quotes” |
 | 3. Popular videos | [2-homepage.html](https://github.com/MikeBilbee/atlas-smiling-school/blob/main/2-homepage.html) [styles.css](https://github.com/MikeBilbee/atlas-smiling-school/blob/main/styles.css) | Create the section “Most popular tutorials” |
