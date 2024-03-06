@@ -1,6 +1,6 @@
 <h1> :computer: Atlas T3 Full Stack: Implement a Design with Bootstrap </h1>
 
-
+![Bootstrap_logo svg](https://github.com/MikeBilbee/atlas-smiling-school/assets/119973248/85e63fab-9d6d-4704-8de0-a5ff6d102ea0)
 
 <h5> :memo: Author: Mike Bilbee </h5>
 
