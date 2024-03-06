@@ -1,0 +1,190 @@
+/* Global Variables */
+
+:root {
+    --color-primary: #C271FF;
+    --color-secondary:  #071629;
+    --color-gray: #8C8C8C;
+    --color-white: #ffffff;
+    --color-black: #071629;
+
+    --text-color: var(--color-black);
+
+    --font-family-base: 'Source Sans Pro';
+
+    --font-size-xx-small: 0.75rem;
+    --font-size-x-small: 0.875rem;
+    --font-size-small: 1rem;
+    --font-size-medium: 1.125rem;
+    --font-size-large: 1.25rem;
+    --font-size-x-large: 2rem;
+    --font-size-xx-large: 2.875rem;
+
+    --font-weight-light: 300;
+    --font-weight-regular: 400;
+    --font-weight-bold: 600;
+    --font-weight-x-bold: 700;
+
+    --line-height-base: normal;
+    --line-height-adjusted: 1.625rem;
+}
+
+/* Global Styles */
+
+html {
+    font-family: 'Source Sans Pro';
+}
+
+/* Bootstrap Overrides */
+
+.small {
+    color: var(--color-gray) !important;
+}
+
+.text-primary {
+    color: var(--color-primary) !important;
+}
+
+.bg-primary {
+    background-color: var(--color-primary) !important;
+}
+
+.text-secondary {
+    color: var(--color-secondary) !important;
+}
+
+.bg-secondary {
+    background-color: var(--color-secondary) !important;
+}
+
+.logo-smile {
+    width: 2.3125rem;
+}
+
+.logo-text {
+    width: 7.125rem;
+}
+
+.nav-link:hover {
+    color: var(--color-primary) !important;
+}
+
+.nav-sm-logos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: auto;
+}
+
+.homepagebody {
+    background: url("./images/pic_1.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: var(--color-secondary);
+}
+
+.pricingbody {
+    background: url("./images/pic_2.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: var(--color-secondary);
+}
+
+.coursesbody {
+    background: url("./images/pic_3.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: var(--color-secondary);
+}
+
+.rounded-circle {
+    width: 9.375rem;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+h2 {
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+    
+}
+
+.faq-text {
+    font-size: 3.75rem;
+    font-weight: var(--font-weight-light);
+    line-height: var(--line-height-base);
+}
+
+.faq {
+    padding-bottom: 4.5rem;
+}
+
+.hero-btn {
+    margin-bottom: 9.5rem;
+}
+
+.mbrshp {
+    margin-top: 5.25rem;
+}
+
+.mbrshp h2 {
+    font-size: var(--font-size-x-large) !important;
+    font-weight: var(--font-weight-light) !important;
+}
+
+.mbrshp span {
+    font-size: var(--font-size-x-large) !important;
+    font-weight: var(--font-weight-x-bold) !important;
+}
+
+.mbrshp-opt img {
+    width: 2.8125rem;
+}
+
+.mbrshp-opt h3 {
+    font-size: var(--font-size-large);
+    font-weight: var(--font-weight-bold);
+}
+
+.mbrshp-opt p {
+    font-size: var(--font-size-small);
+    font-weight: var(--font-weight-regular);
+}
+
+.mbrshp-btn {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: var(--color-primary) !important;
+    border-color: var(--color-primary) !important;
+}
+
+/* Pricing */
+
+
+.table-img {
+width: 5.5rem;
+}
+
+.quote-carousel {
+    padding-top: 5.25rem;
+    padding-bottom: 5.25rem;
+}
+
+/* Courses */
+
+.video-info img {
+    width: 1.875rem;
+}
